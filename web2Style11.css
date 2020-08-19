@@ -1,0 +1,49 @@
+body{
+    background-image: url("../My Pics/room.jpg");
+}
+
+.container{
+    color: white;
+}
+
+li{
+    display: inline;
+    font-weight: bold;
+    text-transform: uppercase;
+    word-spacing: 0.1em;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.head1{
+    float: right;
+    margin: 35px;
+    margin-top: 0px;
+}
+
+.wel{
+   color: white;
+   font-size: 20px;
+   margin-top: 200px;
+   margin-left: 450px;
+}
+
+#welcome{
+    margin-left: 100px;
+}
+
+i{
+    color: rgb(255, 184, 52);
+}
+
+a:link, a:visited{
+    color: white;
+    padding: 15px 25px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+a:hover, a:active{
+    color: rgb(255, 184, 52);
+}

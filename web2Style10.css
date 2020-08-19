@@ -1,0 +1,36 @@
+body{
+    background-image: url("../My Pics/com.jpg");
+}
+
+#about{
+    font-size: 25px;
+    color: thistle;
+    text-align: justify;
+    justify-content: center;
+}
+
+#con{
+    font-size: 25px;
+    color: thistle;
+    text-align: justify;
+    justify-content: center;
+}
+#port{
+    font-size: 25px;
+    color: thistle;
+    text-align: justify;
+    justify-content: center;
+} 
+
+.ed{
+    color: white;
+}
+
+h3, h5{
+    color: rgb(255, 184, 52);
+}
+
+.work{
+    display: block;
+}
+
